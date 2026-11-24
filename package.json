@@ -1,0 +1,1 @@
+{"name":"tooldock","private":true,"type":"module","scripts":{"dev":"nuxt dev","generate":"nuxt generate","build":"nuxt build","preview":"nuxt preview"},"dependencies":{"@arco-design/web-vue":"^2.59.0","nuxt":"^4.2.0","vue":"^3.5.0","vue-router":"^4.5.0"},"devDependencies":{"typescript":"^5.8.0"}}

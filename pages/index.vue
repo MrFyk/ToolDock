@@ -1,0 +1,1 @@
+<script setup lang="ts">await navigateTo('/zh', { redirectCode: 301 })</script><template><p>Redirecting…</p></template>
